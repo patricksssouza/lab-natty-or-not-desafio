@@ -20,22 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Como fazer seu gato + feliz ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Demonstrações práticas e simples de hábitos que comprovadamente melhoram a qualidade de vida de gatos num ambiente doméstico.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Midjourney e Chatgpt.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Midjourney: Criação de prompts para gerar a capa. Chatgpt: Criação de prompts para gerar refinamento de ideias e organiza-las de maneira mais simples.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Ebook simples compacto e funcional.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+n/a.
 ```
 
 ### Exemplos e Insigths
